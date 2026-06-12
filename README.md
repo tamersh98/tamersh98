@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I'm Tamer! 👋
+
+I'm a software developer passionate about Python and Cloud infrastructure.
+
+## About Me
+- 🔭 **What I’m working on:** Developing small-scale Python applications to expand my portfolio.
+- 🌱 **What I’m learning right now:** Advanced Git/GitHub Actions, REST APIs, and database fundamentals.
+- 💬 **Ask me about:** Python basics, command-line tricks, or why I chose to learn programming.
 
 <!--
 **tamersh98/tamersh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
