@@ -1,3 +1,5 @@
+
+> "Code is like humor. When you have to explain it, it’s bad." — *Cory House*
 # Hi, I'm Tamer! 👋
 
 I'm a software developer passionate about Python and Cloud infrastructure.
